@@ -1,0 +1,14 @@
+[
+  {
+    "query": "What do Forward Deployed Engineers do?",
+    "expected_keywords": ["embed", "enterprise", "scalable", "architecture"],
+    "ground_truth": "Forward Deployed Engineers embed with enterprise customers to build scalable cloud architectures."
+  },
+  {
+    "query": "What are the security requirements for enterprise FDE deployments?",
+    "expected_keywords": ["opentelemetry", "sanitization", "guardrails", "zero-trust"],
+    "ground_truth": "Enterprise deployments require strict OpenTelemetry instrumentation, zero-trust input sanitization, and automated evaluation harnesses."
+  }
+]
+
+
